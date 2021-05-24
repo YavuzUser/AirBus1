@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="Yapi1" category="opl">
+			<ref name="test3.mod" type="model">
+			</ref>
+			<ref name="test3.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
